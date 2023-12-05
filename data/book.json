@@ -1,12 +1,68 @@
 [
-    { "id": 1, "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "available": true },
-    { "id": 2, "title": "To Kill a Mockingbird", "author": "Harper Lee", "available": false },
-    { "id": 3, "title": "The Goldfinch", "author": "Donna Tartt", "available": false },
-    { "id": 4, "title": "A New Earth", "author": "Eckhardt Tolle", "available": true },
-    { "id": 5, "title": "The Song of Achilles", "author": "Madeline Miller", "available": false },
-    { "id": 6, "title": "Beloved", "author": "Toni Morrison", "available": false },
-    { "id": 7, "title": "All The Light We Cannot See", "author": "Anthony Doerr", "available": true },
-    { "id": 8, "title": "The Lost City of Z", "author": "David Gran", "available": false },
-    { "id": 9, "title": "Joy Luck Club", "author": "Amy Tan", "available": false },
-    { "id": 10, "title": "East of Eden", "author": "John Steinbeck", "available": false }
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "available": false
+  },
+  {
+    "id": 4,
+    "title": "A New Earth",
+    "author": "Eckhardt Tolle",
+    "available": true
+  },
+  {
+    "id": 5,
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "available": false
+  },
+  {
+    "id": 6,
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "available": false
+  },
+  {
+    "id": 7,
+    "title": "All The Light We Cannot See",
+    "author": "Anthony Doerr",
+    "available": true
+  },
+  {
+    "id": 8,
+    "title": "The Lost City of Z",
+    "author": "David Gran",
+    "available": false
+  },
+  {
+    "id": 9,
+    "title": "Joy Luck Club",
+    "author": "Amy Tan",
+    "available": false
+  },
+  {
+    "id": 10,
+    "title": "East of Eden",
+    "author": "John Steinbeck",
+    "available": true
+  },
+  {
+    "id": 11,
+    "title": "The Final Few Beginnings",
+    "author": "John Steinbeck",
+    "available": false
+  },
+  {
+    "id": 12,
+    "title": "All of Nothing",
+    "author": "John Steinbeck",
+    "available": false
+  }
 ]

@@ -49,7 +49,7 @@ Follow the below steps and you'll be ready to get going on the lab!
 Look through the directory at all the files and make sure you understand their purpose. Ask questions if the below summary isn't clear!
 
 - `data/books.json` has the books for you to start with.
-- `data/books.json` has backups of the books, so that if you delete all the books during testing, you can copy them back over manually. **NOTE**: do not change the backup file itself, or you'll have to re-download it.
+- `data/backup-books.json` has backups of the books, so that if you delete all the books during testing, you can copy them back over manually. **NOTE**: do not change the backup file itself, or you'll have to re-download it.
 
 ### Data Shape
 
